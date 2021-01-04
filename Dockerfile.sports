@@ -1,0 +1,10 @@
+FROM httpd:latest
+RUN rm -rf /usr/local/apache2/htdocs/index.html
+RUN apt update -y
+RUN apt install wget -y
+RUN wget https://www.free-css.com/assets/files/free-css-templates/download/page262/dsports.zip
+RUN apt install unzip 
+RUN unzip dsports.zip
+RUN rm -rf dsports.zip
+RUN mv dsports/* /usr/local/apache2/htdocs
+CMD httpd-foreground
