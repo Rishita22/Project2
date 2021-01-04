@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1609746743,,"wq"
+|2,0,1609747562,,"wq"
 :q!
-|2,0,1609741140,,"q!"
+|2,0,1609747400,,"q!"
 :wq!
 |2,0,1609741135,,"wq!"
 
@@ -29,34 +29,64 @@
 # Registers:
 
 # File marks:
-'0  14  18  ~/docker-compose.yml
-|4,48,14,18,1609746743,"~/docker-compose.yml"
-'1  15  0  ~/docker-compose.yml
-|4,49,15,0,1609746342,"~/docker-compose.yml"
-'2  12  0  ~/docker-compose.yml
-|4,50,12,0,1609746342,"~/docker-compose.yml"
-'3  15  0  ~/docker-compose.yml
-|4,51,15,0,1609745212,"~/docker-compose.yml"
-'4  12  0  ~/docker-compose.yml
-|4,52,12,0,1609745212,"~/docker-compose.yml"
-'5  6  35  ~/docker-compose.yml
-|4,53,6,35,1609741425,"~/docker-compose.yml"
-'6  6  35  ~/docker-compose.yml
-|4,54,6,35,1609741425,"~/docker-compose.yml"
-'7  6  35  ~/docker-compose.yml
-|4,55,6,35,1609741425,"~/docker-compose.yml"
-'8  6  35  ~/docker-compose.yml
-|4,56,6,35,1609741425,"~/docker-compose.yml"
-'9  6  35  ~/docker-compose.yml
-|4,57,6,35,1609741425,"~/docker-compose.yml"
+'0  1  12  ~/docker-compose.yml
+|4,48,1,12,1609747562,"~/docker-compose.yml"
+'1  14  18  ~/docker-compose.yml
+|4,49,14,18,1609747400,"~/docker-compose.yml"
+'2  14  18  ~/docker-compose.yml
+|4,50,14,18,1609747400,"~/docker-compose.yml"
+'3  1  0  ~/d
+|4,51,1,0,1609747383,"~/d"
+'4  14  18  ~/docker-compose.yml
+|4,52,14,18,1609746743,"~/docker-compose.yml"
+'5  14  18  ~/docker-compose.yml
+|4,53,14,18,1609746743,"~/docker-compose.yml"
+'6  15  0  ~/docker-compose.yml
+|4,54,15,0,1609746342,"~/docker-compose.yml"
+'7  12  0  ~/docker-compose.yml
+|4,55,12,0,1609746342,"~/docker-compose.yml"
+'8  15  0  ~/docker-compose.yml
+|4,56,15,0,1609746342,"~/docker-compose.yml"
+'9  12  0  ~/docker-compose.yml
+|4,57,12,0,1609746342,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  1  12  ~/docker-compose.yml
+|4,39,1,12,1609747562,"~/docker-compose.yml"
+-'  14  18  ~/docker-compose.yml
+|4,39,14,18,1609747527,"~/docker-compose.yml"
+-'  14  18  ~/docker-compose.yml
+|4,39,14,18,1609747400,"~/docker-compose.yml"
+-'  1  0  ~/d
+|4,39,1,0,1609747383,"~/d"
+-'  1  0  ~/d
+|4,39,1,0,1609747383,"~/d"
+-'  1  0  ~/d
+|4,39,1,0,1609747383,"~/d"
+-'  1  0  ~/d
+|4,39,1,0,1609747383,"~/d"
+-'  14  18  ~/docker-compose.yml
+|4,39,14,18,1609746743,"~/docker-compose.yml"
 -'  14  18  ~/docker-compose.yml
 |4,39,14,18,1609746743,"~/docker-compose.yml"
 -'  15  0  ~/docker-compose.yml
 |4,39,15,0,1609746663,"~/docker-compose.yml"
+-'  15  0  ~/docker-compose.yml
+|4,39,15,0,1609746663,"~/docker-compose.yml"
+-'  15  0  ~/docker-compose.yml
+|4,39,15,0,1609746663,"~/docker-compose.yml"
+-'  15  0  ~/docker-compose.yml
+|4,39,15,0,1609746663,"~/docker-compose.yml"
 -'  12  0  ~/docker-compose.yml
 |4,39,12,0,1609746342,"~/docker-compose.yml"
+-'  12  0  ~/docker-compose.yml
+|4,39,12,0,1609746342,"~/docker-compose.yml"
+-'  12  0  ~/docker-compose.yml
+|4,39,12,0,1609746342,"~/docker-compose.yml"
+-'  12  0  ~/docker-compose.yml
+|4,39,12,0,1609746342,"~/docker-compose.yml"
+-'  12  0  ~/docker-compose.yml
+|4,39,12,0,1609745212,"~/docker-compose.yml"
 -'  12  0  ~/docker-compose.yml
 |4,39,12,0,1609745212,"~/docker-compose.yml"
 -'  6  35  ~/docker-compose.yml
@@ -66,7 +96,43 @@
 -'  6  35  ~/docker-compose.yml
 |4,39,6,35,1609745174,"~/docker-compose.yml"
 -'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609745174,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609745174,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609745174,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609745174,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609745174,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
 |4,39,6,35,1609741425,"~/docker-compose.yml"
+-'  6  35  ~/docker-compose.yml
+|4,39,6,35,1609741425,"~/docker-compose.yml"
+-'  19  18  ~/docker-compose.yml
+|4,39,19,18,1609741410,"~/docker-compose.yml"
+-'  11  65  ~/docker-compose.yml
+|4,39,11,65,1609741410,"~/docker-compose.yml"
+-'  16  18  ~/docker-compose.yml
+|4,39,16,18,1609741410,"~/docker-compose.yml"
+-'  19  18  ~/docker-compose.yml
+|4,39,19,18,1609741410,"~/docker-compose.yml"
+-'  11  65  ~/docker-compose.yml
+|4,39,11,65,1609741410,"~/docker-compose.yml"
+-'  16  18  ~/docker-compose.yml
+|4,39,16,18,1609741410,"~/docker-compose.yml"
+-'  12  65  ~/docker-compose.yml
+|4,39,12,65,1609741410,"~/docker-compose.yml"
+-'  19  18  ~/docker-compose.yml
+|4,39,19,18,1609741410,"~/docker-compose.yml"
+-'  11  65  ~/docker-compose.yml
+|4,39,11,65,1609741410,"~/docker-compose.yml"
+-'  16  18  ~/docker-compose.yml
+|4,39,16,18,1609741410,"~/docker-compose.yml"
+-'  11  65  ~/docker-compose.yml
+|4,39,11,65,1609741410,"~/docker-compose.yml"
+-'  16  18  ~/docker-compose.yml
+|4,39,16,18,1609741410,"~/docker-compose.yml"
 -'  12  65  ~/docker-compose.yml
 |4,39,12,65,1609741410,"~/docker-compose.yml"
 -'  19  18  ~/docker-compose.yml
@@ -81,6 +147,8 @@
 |4,39,16,18,1609741410,"~/docker-compose.yml"
 -'  16  18  ~/docker-compose.yml
 |4,39,16,18,1609741406,"~/docker-compose.yml"
+-'  16  18  ~/docker-compose.yml
+|4,39,16,18,1609741406,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1609741267,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
@@ -91,6 +159,18 @@
 |4,39,1,0,1609741267,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1609741267,"~/docker-compose.yml"
 -'  6  0  ~/local/docker-compose.yml
 |4,39,6,0,1609741140,"~/local/docker-compose.yml"
 -'  6  0  ~/local/docker-compose.yml
@@ -155,78 +235,30 @@
 |4,39,6,0,1609741140,"~/local/docker-compose.yml"
 -'  6  0  ~/local/docker-compose.yml
 |4,39,6,0,1609741140,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
--'  1  0  ~/local/docker-compose.yml
-|4,39,1,0,1609741041,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
+-'  6  0  ~/local/docker-compose.yml
+|4,39,6,0,1609741140,"~/local/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
 
 > ~/docker-compose.yml
-	*	1609746742	0
-	"	14	18
-	^	14	19
-	.	14	18
+	*	1609747561	0
+	"	1	12
+	^	1	13
+	.	1	12
 	+	16	0
 	+	6	33
 	+	12	65
@@ -238,6 +270,11 @@
 	+	7	4
 	+	8	14
 	+	14	18
+	+	1	12
+
+> ~/d
+	*	1609747381	0
+	"	1	0
 
 > ~/local/docker-compose.yml
 	*	1609741138	0
